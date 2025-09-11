@@ -75,9 +75,9 @@
   "devDependencies": {
     "@types/animejs": "^3.1.13",
     "@types/dagre": "^0.7.52",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "@types/node": "^20.19.13",
+    "@types/react": "^18.3.24",
+    "@types/react-dom": "^18.3.7",
     "@types/react-syntax-highlighter": "^15.5.13",
     "babel-plugin-glsl": "^1.0.0",
     "cross-env": "^7.0.3",
@@ -86,6 +86,6 @@
     "postcss": "^8",
     "prettier": "^3.5.3",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "typescript": "^5.9.2"
   }
 }
