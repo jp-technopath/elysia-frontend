@@ -1,12 +1,8 @@
-<svg width="445" height="445" viewBox="0 0 445 445" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="mask0_1240_20" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="445" height="445">
-<circle cx="222.5" cy="222.5" r="222.5" fill="#D9D9D9"/>
-</mask>
-<g mask="url(#mask0_1240_20)">
-<path d="M-99 222H417" stroke="#FCFEFF" stroke-width="50" stroke-linecap="round"/>
-<path d="M-142 134H285" stroke="#FCFEFF" stroke-width="50" stroke-linecap="round"/>
-<path d="M-142 307H285" stroke="#FCFEFF" stroke-width="50" stroke-linecap="round"/>
-<path d="M-66 383C-66 383 165.452 441.434 282.5 402.5C347.87 380.756 383.5 328 383.5 328" stroke="#FCFEFF" stroke-width="65" stroke-linecap="round"/>
-<path d="M-66 61.8784C-66 61.8784 165.452 3.44425 282.5 42.3784C347.87 64.1227 383.5 116.878 383.5 116.878" stroke="#FCFEFF" stroke-width="65" stroke-linecap="round"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 800 800" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+<path transform="translate(471,11)" d="m0 0h25l1 401 15 11 18 13 17 13 17 12 34 25 19 14 18 13 12 9 3 3 1 179 13 7 8 8 7 13 2 8v13l-4 13-6 9-9 8-10 5-4 1h-23l-10-4-9-7-6-7-5-10-2-7v-15l4-12 6-9 7-7 13-7v-167l-19-14-18-13-38-28-18-13-57-42-2-2-1-8v-405z" fill="#FEFEFE"/>
+<path transform="translate(305,11)" d="m0 0h25l1 2-1 412-11 9-17 12-19 14-15 11-18 13-57 42-14 10h-2l1 168 13 7 8 8 6 10 3 10v15l-4 12-7 10-8 7-10 5-4 1h-23l-12-5-10-9-6-9-3-9-1-5v-12l4-13 7-10 8-7 11-6 1-179 4-4 19-14 18-13 38-28 18-13 16-12 36-26 4-4z" fill="#FEFEFE"/>
+<path transform="translate(580,11)" d="m0 0h25l1 1 1 379 13 9 18 13 57 42 18 13 34 25 11 8 1 1 1 180 12 6 10 10 6 12 1 4v22l-3 9-8 11-11 8-13 4h-16l-12-4-11-8-7-10-4-8-2-9v-9l3-12 6-10 5-6 10-7 7-2v-167l-10-8-18-13-38-28-18-13-57-42-12-9z" fill="#FEFEFE"/>
+<path transform="translate(196,11)" d="m0 0h24l1 1v390l-5 5-18 13-38 28-18 13-19 14-18 13-19 14-15 11-3 2v167l12 6 8 7 7 11 3 9 1 6v9l-4 13-6 9-5 5-6 5-8 4-9 2h-15l-12-4-8-6-7-7-7-14-1-5v-15l4-13 6-8 5-5 5-4 10-5v-178l5-5 17-13 36-26 57-42 36-26 2-1 1-379z" fill="#FEFEFE"/>
+<path transform="translate(387,11)" d="m0 0h25l1 5v492l12 6 7 6 6 9 4 9 2 14-2 12-6 12-9 10-14 7-8 2h-12l-13-4-9-6-7-7-7-14-1-3v-19l4-12 8-11 9-7 9-4z" fill="#FEFEFE"/>
 </svg>
