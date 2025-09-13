@@ -70,7 +70,7 @@ export const SocketProvider = ({ children }: { children: React.ReactNode }) => {
 
     localSocket.onopen = () => {
       setSocketOnline(true);
-      showSuccessToast("Connected to Elysia");
+      showSuccessToast("Connected to MAAT");
       if (process.env.NODE_ENV === "development") {
         console.log("Socket opened");
       }
