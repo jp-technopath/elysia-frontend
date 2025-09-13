@@ -67,7 +67,7 @@ const SidebarComponent: React.FC = () => {
         <div className="flex items-center gap-2 w-full justify-between p-2">
           <div className="flex items-center gap-2">
             <img
-              src={`${public_path}logo.svg`}
+              src="/logo.svg"
               alt="MAAT"
               className="w-5 h-5 stext-primary"
             />
