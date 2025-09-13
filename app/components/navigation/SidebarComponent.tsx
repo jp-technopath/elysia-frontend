@@ -11,8 +11,6 @@ import { FaCircle } from "react-icons/fa6";
 import HomeSubMenu from "@/app/components/navigation/HomeSubMenu";
 import EvalSubMenu from "@/app/components/navigation/EvalSubMenu";
 
-import { public_path } from "@/app/components/host";
-
 import {
   Sidebar,
   SidebarContent,
